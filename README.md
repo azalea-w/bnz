@@ -105,6 +105,7 @@ Let the numbers speak for themselves:
 | Zor███.nzb  | 20.2 KB  | 5.7 KB   | 5.7 KB   | 6.3 KB   | 28.3%     | 28.4%        | 31.2%        | BNZ -588.0 B    |
 | Zor███.nzb  | 27.4 KB  | 7.6 KB   | 7.7 KB   | 8.6 KB   | 27.9%     | 28.0%        | 31.3%        | BNZ -937.0 B    |
 | TOTAL       | 615.9 MB | 148.1 MB | 145.3 MB | 164.0 MB | 24.0%     | 23.6%        | 26.6%        | BNZ -18.7 MB    |
+
 Except for 3 `.nzb` files, bnz always takes the win saving multiple MB in larger files for overall savings of 21MB over `.nzb.gz` on this 93 `.nzb` file benchmark. 
 
 Best result by ratio: 7.5MB → 54.7KB
