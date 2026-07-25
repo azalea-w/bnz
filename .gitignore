@@ -1,0 +1,41 @@
+### Inverse template
+# * Ignore Everything
+/*
+
+# * dotfiles
+!.gitignore
+!.dockerignore
+
+# * Source Tree
+!/src/
+!/src/*
+!/src/**/*
+
+!/static
+!/static/*
+!/static/**/*
+
+# * Python
+!main.py
+!pyproject.toml
+
+# * Rust
+!Cargo.lock
+!Cargo.toml
+
+# * Configuration
+!config.toml
+
+# * Build Systems
+!docker-compose.yml
+!Dockerfile
+
+# * GitHub
+!/.github
+!/.github/*
+!/.github/**/*
+
+# * Meta
+!README.md
+!LICENSE
+!THIRD_PARTY_LICENSES
